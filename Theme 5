@@ -16,7 +16,7 @@
 --main-theme-color: #B50000FF;
 --theme-transparency: #000000cc;
 --theme-background-image: url('https://i.imgur.com/vCOa19Q.jpg');
---home-icon-image: url('https://cdn.discordapp.com/attachments/1132693212692226180/1133166907328057414/kirua.png');
+--home-icon-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMk1N-OnRqMw8i31xzDzuxdj6o9z1l5dvEoQ&usqp=CAU');
 --home-icon-image-zoom: 100%;
 --home-icon-image-position: center;
 --server-listing-width: 72px;
