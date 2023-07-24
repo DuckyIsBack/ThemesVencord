@@ -53,11 +53,11 @@
 --unread-message-divider-font-color: #ffffff;
 --new-messages-bar-background-color: #7289da;
 --new-messages-bar-font-color: #ffffff;
---emoji-menu-background-color: #ffffff;
---emoji-menu-sider-background-color: #ffffff;
---emoji-menu-server-header-background-color: #ffffff;
---emoji-menu-bottom-bar-background-color: #ffffff;
---emoji-menu-search-bar-background-color: #ffffff;
+--emoji-menu-background-color: #020000;
+--emoji-menu-sider-background-color: #020000;
+--emoji-menu-server-header-background-color: #020000;
+--emoji-menu-bottom-bar-background-color: #020000;
+--emoji-menu-search-bar-background-color: #020000;
 --message-search-menu-background-color: #000000cc;
 --message-search-container-background-color: #00000099;
 --message-search-result-background-color: #c8c8c80d;
