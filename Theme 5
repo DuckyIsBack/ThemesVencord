@@ -28,8 +28,8 @@
 --unread-server-animation: rainbow;
 --video-screen-button-background-color: #020000;
 --video-screen-button-foreground-color: #020000;
---video-screen-button-background-hovor-color: ##020000;
---video-screen-button-foreground-hovor-color: #020000;
+--video-screen-button-background-hovor-color: transparent;
+--video-screen-button-foreground-hovor-color: transparent;
 --member-listing-role-color: #B50000FF;
 --small-user-popout-background-image: url('https://i.imgur.com/nnfpUFQ.jpg');
 --small-user-popout-background-transparency: #0F0F0F99;
