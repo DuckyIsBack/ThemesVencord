@@ -67,7 +67,7 @@
 --unread-text-channel-color: #ffffff;
 --unread-text-channel-bubble-color: #ffffff;
 --folder-background-color: #DF0000FF;
---expanded-folder-background-color: #2FFFD9FF;
+--expanded-folder-background-color: ##020000;
 --reaction-emoji-background-color: #00000000;
 --reaction-emoji-border-color: 1px solid transparent;
 --reaction-emoji-hover-background-color: #ffffff1a;
