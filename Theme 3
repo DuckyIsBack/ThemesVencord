@@ -1,0 +1,27 @@
+/**
+ * @name Samurai_B&W
+ * @author AzazelBRO
+ * @version auto updates
+ * @description Тема создана в генераторе https://vsthemes.org/generator/
+ * @source https://vsthemes.org/skins/discord/33766-samurai_bampw.html
+ * @authorLink https://vsthemes.org/user/AzazelBRO/
+ * @authorId 7752
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.05;
+    --messagetransparency: 0.2;
+    --guildchanneltransparency: 0.1;
+    --memberlistransparency: 0;
+    --accentcolor: 71,171,238;
+    --background: url("https://vsthemes.org/uploads/posts/2021-06/1623147339_wp3178891-japanese-katana-sword-wallpaper.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
