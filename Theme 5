@@ -26,10 +26,10 @@
 --mention-hover-color: #faa61a14;
 --category-hover-color: #FFFFFFFF;
 --unread-server-animation: rainbow;
---video-screen-button-background-color: #FFFFFFFF;
+--video-screen-button-background-color: #1f1f1f;
 --video-screen-button-foreground-color: #FFFFFFFF;
---video-screen-button-background-hovor-color: #1f1f1f;
---video-screen-button-foreground-hovor-color: #757575;
+--video-screen-button-background-hovor-color: transparent;
+--video-screen-button-foreground-hovor-color: #FFFFFFFF;
 --member-listing-role-color: #B50000FF;
 --small-user-popout-background-image: url('https://i.imgur.com/nnfpUFQ.jpg');
 --small-user-popout-background-transparency: #0F0F0F99;
