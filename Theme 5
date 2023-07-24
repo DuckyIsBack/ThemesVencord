@@ -26,9 +26,9 @@
 --mention-hover-color: #faa61a14;
 --category-hover-color: #FFFFFFFF;
 --unread-server-animation: rainbow;
---video-screen-button-background-color: #020000;
---video-screen-button-foreground-color: #020000;
---video-screen-button-background-hovor-color: transparent;
+--video-screen-button-background-color: #070707;
+--video-screen-button-foreground-color: transparent;
+--video-screen-button-background-hovor-color: #1f1f1f;
 --video-screen-button-foreground-hovor-color: transparent;
 --member-listing-role-color: #B50000FF;
 --small-user-popout-background-image: url('https://i.imgur.com/nnfpUFQ.jpg');
