@@ -22,7 +22,7 @@
 --server-listing-width: 72px;
 --font-size: 100%;
 --mention-color: #faa61a0d;
---mention-sider: #FA04E9FF;
+--mention-sider: #d3c513;
 --mention-hover-color: #faa61a14;
 --category-hover-color: #FFFFFFFF;
 --unread-server-animation: rainbow;
@@ -37,7 +37,7 @@
 --big-user-popout-background-image: url('https://i.imgur.com/s8IsnvR.jpg');
 --big-user-popout-background-transparency: #00000099;
 --big-user-popout-background-image-position: center;
---code-markup-background-color: #F5FFEC99;
+--code-markup-background-color: #1f1e1e;
 --code-markup-border: 1px solid transparent;
 --message-box-transparency: #00000099;
 --embed-background-transparency: #00000099;
@@ -81,11 +81,11 @@
 --rs-medium-width: 3px;
 --rs-large-width: 4px;
 --rs-avatar-shape: 50%;
---rs-online-color: #12D8FFFF;
---rs-idle-color: #12BEFAFF;
---rs-dnd-color: #F0590CFF;
---rs-offline-color: #750C46FF;
---rs-streaming-color: #643da7;
+--rs-online-color: #1d9b00;
+--rs-idle-color: #ff9100;
+--rs-dnd-color: #ff0000;
+--rs-offline-color: #222222;
+--rs-streaming-color: #3d06a1;
 --rs-invisible-color: #8D8907FF;
 --rs-phone-visible: block;
 --customFont: 'Staatliches';
