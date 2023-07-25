@@ -82,8 +82,8 @@
 --rs-large-width: 4px;
 --rs-avatar-shape: 50%;
 --rs-online-color: #1d9b00;
---rs-idle-color: #12BEFAFF;
---rs-dnd-color: #F0590CFF;
+--rs-idle-color: #ff9100;
+--rs-dnd-color: #ff0000;
 --rs-offline-color: #222222;
 --rs-streaming-color: #3d06a1;
 --rs-invisible-color: #8D8907FF;
