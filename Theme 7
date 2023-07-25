@@ -21,8 +21,8 @@
 --home-icon-image-position: center;
 --server-listing-width: 72px;
 --font-size: 100%;
---mention-color: #faa61a0d;
---mention-sider: #FA04E9FF;
+--mention-color: #948b03;
+--mention-sider: #d3c513;
 --mention-hover-color: #faa61a14;
 --category-hover-color: #FFFFFFFF;
 --unread-server-animation: rainbow;
