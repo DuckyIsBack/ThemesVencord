@@ -41,7 +41,7 @@
 --message-box-transparency: #00000099;
 --embed-background-transparency: #00000099;
 --message-hover-buttons-background: #9792C8B6;
---context-menu-transparency: #0f0f0fcc;
+--context-menu-transparency: #020000;
 --add-discover-icon-transparency: #c8c8c826;
 --add-discover-icon-color: #43b581;
 --channel-limit-count-color: #43b581;
