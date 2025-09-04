@@ -11,7 +11,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Staatliches');
 @import url('https://codedotspectra.github.io/themes/core/custom-font.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
-@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://betterdiscord.app/theme/Horizontal%20Server%20List');
 :root {
 --main-theme-color: #B50000FF;
 --theme-transparency: #000000cc;
